@@ -89,4 +89,4 @@ bash start
 <a href="https://t.me/Gleam_moon"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [@ll_CHINTU_lll](https://t.me/Dns_Official_Channel) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Dns_Official_Channel)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [@ll_CHINTU_lll](https://t.me/Gleam_moon) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Gleam_moon)_ </b>
