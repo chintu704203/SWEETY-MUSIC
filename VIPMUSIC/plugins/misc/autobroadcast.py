@@ -9,22 +9,27 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://graph.org/file/760169f7f8dd536c50793.jpg"
+START_IMG_URLS = "https://telegra.ph/file/b4ed828c1d518a34ac7d3.jpg"
 
-MESSAGES = f"""**𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 𝗔𝗴𝗲𝗻𝘁 𝗪𝗼𝗿𝗸 𝗜𝗻 𝗡𝗲𝘄 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗝𝘂𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗠𝗲 𝗪𝗵𝗼 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗪𝗼𝗿𝗸 𝗔𝘀 𝗔 𝗔𝗴𝗲𝗻𝘁.
+MESSAGES = f"""**ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
+ 
+ 👑 24×7 ᴜᴘᴛɪᴍᴇ
+ 👑 ʟᴀɢ ғʀᴇᴇ
+ 👑 ᴀᴅᴠᴀɴᴄᴇᴅ & ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs
+ 👑 ʟᴀᴛᴇsᴛ ᴛʜᴜᴍʙɴᴀɪʟ ᴜɪ.
 
-𝗠𝘀𝗴 𝗛𝗲𝗿𝗲 :- @OkWinAgent
+ᴏᴡɴᴇʀ :- @ll_CHINTU_lll
 
-𝗦𝗮𝗹𝗹𝗲𝗿𝘆 𝗦𝘁𝗮𝗿𝘁𝘀 𝘄𝗶𝘁𝗵 𝟮 𝗔𝗰𝘁𝗶𝘃𝗲 𝗣𝗹𝗮𝘆𝗲𝗿.
+😀ᴜꜱᴇ » /start ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ.
 
-𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗹𝗶𝗻𝗸 :- https://okwin.one/#/register?invitationCode=8284112316**"""
+ᴊᴏɪɴ ʟɪɴᴋ :- https://t.me/Gleam_moon**"""
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
-                url=f"https://okwin.one/#/register?invitationCode=8284112316",
+                "๏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ๏",
+                url=f"https://t.me/sweetyXmusicbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
