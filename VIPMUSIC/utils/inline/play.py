@@ -110,22 +110,13 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ", callback_data=f"vip_playlist {videoid}"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url="https://t.me/Gleam_moon_chat",
             ),
             InlineKeyboardButton(
-                text="ᴄᴏɴᴛʀᴏʟs ♻",
-                callback_data=f"Pages Back|3|{videoid}|{chat_id}",
+                text="Update 📡", url="https://t.me/Gleam_moon",
             ),
         ],
         [
-            InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
-            ),
-            InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
-            ),
-        ],
-    ]
             InlineKeyboardButton(
                 text="๏ ᴀᴅᴠᴀɴᴄᴇ ๏",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
