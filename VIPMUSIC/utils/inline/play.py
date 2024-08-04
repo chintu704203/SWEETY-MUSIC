@@ -125,7 +125,7 @@ def stream_markup(_, videoid, chat_id):
                 text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
             ),
         ],
-        
+    ]
             InlineKeyboardButton(
                 text="๏ ᴀᴅᴠᴀɴᴄᴇ ๏",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
